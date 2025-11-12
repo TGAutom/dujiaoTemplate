@@ -2,15 +2,6 @@
 
 本项目提供了若干个精美的独角卡程序前端模板，分别存放于 `riniba_编号`  文件夹中。您可以根据自己的需求选择合适的模板，并在独角卡程序中快速应用。
 
-## AD -- 机场推广
-
-机场 - 老百姓自己的机场：[https://老百姓自己的机场.com](https://老百姓自己的机场.com)
-
-> 咱老百姓就得用自己的机场
-> 老百姓自己的机场 做用的起的机场
-
-开源telegram关键词监控：[https://github.com/Riniba/TelegramMonitor](https://github.com/Riniba/TelegramMonitor)
-
 
 ## 演示地址
 
@@ -31,8 +22,6 @@
 
 1. 将template目录 **里面的** 所有文件覆盖到独角卡程序的根目录下。
 2. 登录独角卡后台，在后台选择对应的主题进行切换，即可完成应用新模板。
-3. 有问题请联系 Telegram：https://t.me/Riniba
-4. Telegram交流群组 https://t.me/RinibaGroup
 
 > **注意**：本模板只支持独角卡的 **原版程序**，请确保您的程序版本为官方原版。
 
